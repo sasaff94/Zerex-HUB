@@ -917,7 +917,6 @@ function Dino:CreateWindow(dinotitle)
 end
 
 return Dino
-local Library loadstring(game:HttpGet("https://raw.githubusercontent.com/sasaff94/Ui-Zerex-HUB/main/README.md"))()
 local DinoWindow = Dino:CreateWindow("Legends Of Speed")
 
 local DinoPage = DinoWindow:NewPage("AutoFarm")
