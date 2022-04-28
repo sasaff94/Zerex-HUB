@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/sasaff94/Zerex_HUB/main/README.md"))()
 local Window = Library.CreateLib("             Legen of speed  |", "Ocean")
 local Tab = Window:NewTab("Main")
 local Section = Tab:NewSection("Main")
