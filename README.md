@@ -1,5 +1,5 @@
 local Library loadstring(game:HttpGet("https://raw.githubusercontent.com/sasaff94/Ui-Zerex-HUB/main/README.md"))()
-local DinoWindow = Dino:CreateWindow("King Lecagy [ Made By NAYPRAMX#0562 ] ")
+local DinoWindow = Dino:CreateWindow("Legends Of Speed")
 
 local DinoPage = DinoWindow:NewPage("AutoFarm")
 
